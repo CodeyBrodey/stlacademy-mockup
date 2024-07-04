@@ -94,7 +94,7 @@ h1 {
     left: 0;
     right: 0;
 
-    --parallax-speed: 8.5;
+    --parallax-speed: 6.5;
     z-index: -3;
 }
 
@@ -112,7 +112,7 @@ h1 {
     max-width: 550px;
     margin: 100px auto;
 
-    --parallax-speed: 7;
+    --parallax-speed: 5.5;
     z-index: -1;
 }
 .hero-img {
