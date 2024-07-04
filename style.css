@@ -70,7 +70,7 @@ h1 {
     max-width: 1150px;
     margin: 0 auto;
 
-    --parallax-speed: 4;
+    --parallax-speed: 5.5;
     z-index: -2;
 }
 .hero-img {
